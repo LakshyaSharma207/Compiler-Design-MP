@@ -426,7 +426,7 @@ void codeGenerator()
     myTriple[triple_count] = generateTriple(check, temp[1], temp[0], temp[2], result);
     
     searchTriple();
-    printf("\n\nTriple Representation - \n");
+    printf("\n\nIndirect Triple Representation - \n");
     printf("\topr\top1\top2\n");
     printTriple();
 }
