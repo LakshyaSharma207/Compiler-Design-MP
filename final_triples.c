@@ -1,3 +1,5 @@
+// credits to chatgpt for most of this code lol, helped me much in understanding, 
+// the logic and data structure behind triple representation
 #include <stdio.h>
 #include <string.h>
 
